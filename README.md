@@ -1,2 +1,8 @@
 # zig-stats
-Statistics library written in Zig
+
+## Describe Statistics
+- [x] Mean
+- [x] Mode
+- [x] Median
+- [x] Range
+
